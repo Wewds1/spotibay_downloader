@@ -1,0 +1,4 @@
+spotipy>=2.25,<3
+python-dotenv>=1.0,<2
+mutagen>=1.47,<2
+rapidfuzz>=3.9,<4
